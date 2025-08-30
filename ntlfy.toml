@@ -4,5 +4,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "coachsite_2.html"
   status = 200
